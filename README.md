@@ -1,5 +1,7 @@
 # Power-bi-project
 **Power BI Project: AdventureWorks Company Analysis**
+
+
 **Objective:**
 Create an interactive Power BI dashboard to analyze key metrics for AdventureWorks, a company specializing in bicycles and related products. The project aims to provide insights into sales, inventory, customer behavior, and financial performance.
 
