@@ -1,4 +1,5 @@
-# Power-bi-project
+# SALES ANALYSIS USING POWER BI
+
 **Power BI Project: AdventureWorks Company Analysis**
 
 
